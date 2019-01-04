@@ -1,2 +1,2 @@
 # Simple-study-generator
-This is a study generator for python. it randomly assigns you a subject to study
+This is a study generator for python. It randomly assigns you a subject to study
